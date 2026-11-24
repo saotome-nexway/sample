@@ -11,3 +11,4 @@ Git の練習用リポジトリです（HTML / CSS / JS のみ）。
 3. `main` に戻って `git merge feature/color`
 4. 2つのブランチで同じ行を変更して、わざとコンフリクトを起こして解決する
 5. `git log --oneline --graph` で履歴を確認する
+練習で追加した行
